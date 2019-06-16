@@ -1,0 +1,645 @@
+﻿M:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (CelluralAutomata.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  TILE_.cpp
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\ResourceManager.h(21): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\HUD.h(27): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\HUD.h(44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\HUD.h(45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(54): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(57): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(58): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(67): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(72): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(80): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(84): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(91): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(96): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(111): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(118): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(73): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(78): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(680): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(681): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(682): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(683): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(686): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(687): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(688): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(689): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(697): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(699): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(708): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(725): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(899): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1163): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1164): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1165): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1166): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1169): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1170): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1171): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1172): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1189): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1189): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1190): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1190): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1191): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1191): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1192): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1192): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1193): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1193): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1197): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1199): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1561): warning C4244: "inicjowanie": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1562): warning C4244: "inicjowanie": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1619): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1620): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1621): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1622): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1625): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1626): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1627): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1628): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\TILE_.cpp(7): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\TILE_.cpp(8): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\ResourceManager.h(21): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\HUD.h(27): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\HUD.h(44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\HUD.h(45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(54): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(57): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(58): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(67): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(72): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(80): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(84): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(91): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(96): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(111): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\WorkManager.h(118): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(73): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(78): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(680): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(681): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(682): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(683): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(686): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(687): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(688): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(689): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(697): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(699): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(708): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(725): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(899): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1163): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1164): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1165): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1166): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1169): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1170): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1171): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1172): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1189): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1189): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1190): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1190): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1191): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1191): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1192): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1192): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1193): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1193): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1197): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1199): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1561): warning C4244: "inicjowanie": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1562): warning C4244: "inicjowanie": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1619): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1620): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1621): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1622): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1625): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1626): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1627): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Map.h(1628): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\Loader.h(20): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kubek\source\repos\CelluralAutomata\CelluralAutomata\main.cpp(88): warning C4244: "argument": konwersja z "T" do "const unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Generowanie kodu...
+  CelluralAutomata.vcxproj -> C:\Users\Kubek\source\repos\CelluralAutomata\Debug\PixelEmpire.exe

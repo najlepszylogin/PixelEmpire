@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\MapManager">
+      <UniqueIdentifier>{592e8d0b-895a-43bf-b6f7-adf4944bd050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\PlayerManager">
+      <UniqueIdentifier>{4a1c0292-c3bd-4048-a518-f038cb4ee3b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Managers">
+      <UniqueIdentifier>{155eb7d7-7236-479e-aa19-efafd30be87a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Loader">
+      <UniqueIdentifier>{370b73bc-c723-4a45-a8d2-25ac21e9b7d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Lang">
+      <UniqueIdentifier>{9f84a540-b913-4170-937c-75e08e9d9efa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Pliki źródłowe\PlayerManager</Filter>
+    </ClCompile>
+    <ClCompile Include="TILE_.cpp">
+      <Filter>Pliki źródłowe\MapManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Empire.cpp">
+      <Filter>Pliki źródłowe\PlayerManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Pliki nagłówkowe\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Pliki nagłówkowe\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="WorkManager.h">
+      <Filter>Pliki nagłówkowe\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Loader.h">
+      <Filter>Pliki nagłówkowe\Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="Strings.h">
+      <Filter>Pliki nagłówkowe\Lang</Filter>
+    </ClInclude>
+    <ClInclude Include="strings_PL.h">
+      <Filter>Pliki nagłówkowe\Lang</Filter>
+    </ClInclude>
+    <ClInclude Include="Empire.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
